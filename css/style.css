@@ -546,6 +546,7 @@ font-family: Arial;
 .form .hero-section {
 	background:url(../images/fondoheader.jpg);
 	background-size: cover;
+	background-position: center;
 	padding: 150px 0 0 0;
 }
 
